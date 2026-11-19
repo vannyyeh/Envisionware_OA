@@ -16,6 +16,7 @@ With our 18-month payback requirement, I recommend Mobile Printing first, where 
 I'd make the chatbot our next priority. Once Mobile Printing ships, we can test it with a few libraries and confirm willingness to pay before a full build.
 
 Best,
+
 Vanny
 
 ---
@@ -36,6 +37,7 @@ That is why I recommend Mobile Printing first. I am not removing Events from our
 
 
 Best,
+
 Vanny
 
 ---
@@ -54,5 +56,6 @@ I recommend addressing the most common workflow and documentation problems first
 
 Could you share the top recurring issues and what may have caused the increase to 191 tickets in September? I would like to identify improvements we can prioritize within available maintenance resources.
 
-Besy,
+Best,
+
 Vanny
