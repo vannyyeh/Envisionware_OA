@@ -1,6 +1,5 @@
 # Stakeholder Replies
 
----
 
 ## 1. CEO
 

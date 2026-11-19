@@ -1,6 +1,5 @@
 # Decision Journal
 
----
 
 ## 1. Initial Hypothesis
 

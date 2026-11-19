@@ -8,6 +8,6 @@ To make the demo easy to try, I bundled the React app and its assets into a sing
 
 1. Select **Print Kiosk** and enter the sample release code `AAABBBCC`.
 2. Select **Find my print job**, then follow the prompts to simulate payment and printing.
-3. Select **Library Staff** and search release code `AAABBBCC to see the updated status.
+3. Select **Library Staff** and search release code `AAABBBCC` to see the updated status.
 
 To try the patron flow, select **Patron**, choose a pickup library, and select a PDF to generate a new release code.

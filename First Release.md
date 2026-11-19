@@ -1,6 +1,5 @@
 # First Release: Mobile Printing
 
----
 
 ## Objective
 

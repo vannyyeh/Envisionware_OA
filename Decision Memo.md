@@ -1,6 +1,5 @@
 # Decision Memo: Build Mobile Printing First
 
----
 
 ## Recommendation
 
